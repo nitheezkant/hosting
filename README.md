@@ -27,6 +27,7 @@ Triangulate the complex and then enter it into the ```Input_Points.txt``` file i
 x        // Use 'x' to indicate end of file.
 ```
 The above input represents this complex given in 
+![App Screenshot](https://github.com/nitheezkant/hosting/blob/main/Example%201.png)
 Then, on terminal run 
 ``` bash
 python3 main.py
